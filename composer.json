@@ -59,7 +59,7 @@
         "rinvex/laravel-cacheable": "dev-downgradephp",
         "rinvex/laravel-support": "dev-downgradephp",
         "spatie/laravel-sluggable": "^2.1.0",
-        "spatie/laravel-translatable": "^4.1.0",
+        "spatie/laravel-translatable": "^4.0.0",
         "watson/validating": "^3.2.0"
     },
     "require-dev": {
